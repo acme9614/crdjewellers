@@ -37,7 +37,7 @@
     }
     nav a:hover {
       transform: translateX(5px);
-      color: #b58900; 
+      color: #8d282aff; 
     }
     nav a::after {
       content: "";
@@ -46,7 +46,7 @@
       bottom: -2px;
       height: 2px;
       width: 0;
-      background: #b58900;
+      background: #8d282aff;
       transition: width 0.3s ease;
     }
     nav a:hover::after {
